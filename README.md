@@ -1,2 +1,2 @@
-# Chelahhh
+# c programming
 c program 
